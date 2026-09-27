@@ -7,7 +7,7 @@ I build and test software products at **AAROHII AI SOLUTION PRIVATE LIMITED**, a
 ---
 
 ## 🙋 About Me
-- 💼 Associate Software Engineer (development & QA) at **AAROHII AI SOLUTION PRIVATE LIMITED** since Feb 2026
+- 💼 Software Developer (development & QA) at **AAROHII AI SOLUTION PRIVATE LIMITED** since Feb 2026
 - 🧪 I work on products from both sides: writing features and testing them before users see them
 - 🚀 I've worked on three live products, and I'm involved with one that's currently in development
 - 📍 Kanpur Dehat, India
