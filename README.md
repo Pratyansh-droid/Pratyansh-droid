@@ -7,7 +7,7 @@ I build and test software products at **AAROHII AI SOLUTION PRIVATE LIMITED**, a
 ---
 
 ## 🙋 About Me
-- 💼 Software Developer & QA at **AAROHII AI SOLUTION PRIVATE LIMITED**
+- 💼 Associate Software Engineer (development & QA) at **AAROHII AI SOLUTION PRIVATE LIMITED** since Feb 2026
 - 🧪 I work on products from both sides: writing features and testing them before users see them
 - 🚀 I've worked on three live products, and I'm involved with one that's currently in development
 - 📍 Kanpur Dehat, India
@@ -21,32 +21,34 @@ I build and test software products at **AAROHII AI SOLUTION PRIVATE LIMITED**, a
 ## 🧰 Technologies
 *From my public repositories:*
 
-`Python` · `Django` · `Django REST Framework` · `JWT authentication` · `MySQL` · `PostgreSQL` · `HTML` · `JavaScript` · `Unit testing`
+`Python` · `Django` · `Django REST Framework` · `JWT authentication` · `PostgreSQL` · `SQLite` · `JavaScript` · `Node.js` · `React Native (Expo)` · `HTML/CSS` · `Unit testing` · `GitHub Actions`
 
 ## 🚀 Products I've Worked On (AAROHII AI SOLUTION)
 
 | Product | What it is | Status |
 |---|---|---|
-| **ViraQueue** | Social media management platform. My work: development, testing, product & UI/UX improvements, automation-related features, bug identification | 🟢 Live · [viraqueue.com](https://viraqueue.com) |
-| **Captverse** | AI business operating system: CRM, sales, inventory, payments, WhatsApp inbox and AI agents on one platform | 🟢 Live · [captverse.com](https://captverse.com) |
-| **PixellPeep** | Visual regression testing platform that catches UI changes and broken layouts by comparing screenshots | 🟢 Live · [pixellpeep.com](https://pixellpeep.com) |
-| **Auvora** | Vendor Management System (VMS) | 🟡 In development, not yet launched |
+| **ViraQueue** | AI-powered social media management platform. My work: scheduling and workflow logic, testing, UI/UX improvements, automation-related features, bug identification | 🟢 Live · [viraqueue.com](https://viraqueue.com) |
+| **Captverse** | AI operating system for businesses (CRM, sales, inventory, payments, AI agents). My work: CRM, inventory and real-time chat modules | 🟢 Live · [captverse.com](https://captverse.com) |
+| **PixellPeep** | Visual regression testing platform that catches UI changes and broken layouts before release. My work: CI-ready APIs, CLI support and multi-algorithm diffing | 🟢 Live · [pixellpeep.com](https://pixellpeep.com) |
+| **Auvora** | VMS platform | 🟡 In development, not yet launched |
 
 *Company products; source code is private.*
 
 ## 📂 Personal Projects
 - **[django-api-deploy](https://github.com/Pratyansh-droid/django-api-deploy)**: Django REST API with JWT auth, CRUD and unit tests
-- **[EasyBazaar](https://github.com/Pratyansh-droid/EasyBazaar-E-Commerce-)**: e-commerce web app built with Django and MySQL
-- **[Budget_Tracker](https://github.com/Pratyansh-droid/Budget_Tracker)**: personal finance tracker for income, expenses and savings
+- **[EasyBazaar](https://github.com/Pratyansh-droid/EasyBazaar-E-Commerce-)**: e-commerce REST API with Django REST Framework and JWT auth (cart, orders, reviews, admin dashboard)
+- **[Budget_Tracker](https://github.com/Pratyansh-droid/Budget_Tracker)**: mobile expense tracker built with React Native (Expo)
+- **[voice-assistant](https://github.com/Pratyansh-droid/voice-assistant)**: JARVIS, a Python desktop voice assistant with speech recognition and text-to-speech
 - **[portfolio-website](https://github.com/Pratyansh-droid/portfolio-website)**: my personal portfolio site
 
 ## 🔨 Current Work
 - Developing and testing SaaS products at AAROHII AI SOLUTION
-- Contributing to **Auvora**, a Vendor Management System (in development)
+- Contributing to **Auvora** (in development)
 
 ## 📈 Business / Entrepreneurship Journey
 I'm interested in more than writing code. I want to understand why a product exists, who it's for, and how it grows. Working on live SaaS products is where I'm learning that first-hand. My long-term goal is to build my own technology products and business.
 
 ## 🤝 Connect With Me
+- 💼 LinkedIn: [Pratyansh Singh](https://www.linkedin.com/in/pratyansh-singh-896681373/)
 - 📸 Instagram: [@pratyansh_singh_](https://www.instagram.com/pratyansh_singh_/)
 - 📧 Email: pratyanshs00@gmail.com
