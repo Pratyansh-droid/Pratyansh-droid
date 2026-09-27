@@ -49,4 +49,4 @@ I'm interested in more than writing code. I want to understand why a product exi
 
 ## 🤝 Connect With Me
 - 📸 Instagram: [@pratyansh_singh_](https://www.instagram.com/pratyansh_singh_/)
-- 📧 Email: pratyanshs39@gmail.com
+- 📧 Email: pratyanshs00@gmail.com
