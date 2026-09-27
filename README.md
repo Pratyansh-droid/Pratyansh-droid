@@ -28,8 +28,8 @@ I build and test software products at **AAROHII AI SOLUTION PRIVATE LIMITED**, a
 | Product | What it is | Status |
 |---|---|---|
 | **ViraQueue** | Social media management platform. My work: development, testing, product & UI/UX improvements, automation-related features, bug identification | 🟢 Live · [viraqueue.com](https://viraqueue.com) |
-| **Capverse** | Software product | 🟢 Live |
-| **Pixellpeep** | Software product | 🟢 Live |
+| **Captverse** | AI business operating system: CRM, sales, inventory, payments, WhatsApp inbox and AI agents on one platform | 🟢 Live · [captverse.com](https://captverse.com) |
+| **PixellPeep** | Visual regression testing platform that catches UI changes and broken layouts by comparing screenshots | 🟢 Live · [pixellpeep.com](https://pixellpeep.com) |
 | **Auvora** | Vendor Management System (VMS) | 🟡 In development, not yet launched |
 
 *Company products; source code is private.*
@@ -49,4 +49,4 @@ I'm interested in more than writing code. I want to understand why a product exi
 
 ## 🤝 Connect With Me
 - 📸 Instagram: [@pratyansh_singh_](https://www.instagram.com/pratyansh_singh_/)
-- 📧 Email: pratyanshs00@gmail.com
+- 📧 Email: pratyanshs39@gmail.com
