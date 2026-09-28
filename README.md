@@ -49,6 +49,7 @@ I build and test software products at **AAROHII AI SOLUTION PRIVATE LIMITED**, a
 I'm interested in more than writing code. I want to understand why a product exists, who it's for, and how it grows. Working on live SaaS products is where I'm learning that first-hand. My long-term goal is to build my own technology products and business.
 
 ## 🤝 Connect With Me
+- 🌐 Website: [pratyansh-droid.github.io](https://pratyansh-droid.github.io/)
 - 💼 LinkedIn: [Pratyansh Singh](https://www.linkedin.com/in/pratyansh-singh-896681373/)
 - 📸 Instagram: [@pratyansh_singh_](https://www.instagram.com/pratyansh_singh_/)
 - 📧 Email: pratyanshs00@gmail.com
